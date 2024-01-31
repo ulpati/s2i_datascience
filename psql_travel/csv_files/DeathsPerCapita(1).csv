@@ -1,0 +1,94 @@
+validctrys,ntravelers,ndeaths,percap,region
+Pakistan,226200,8,3.54,Asia
+Thailand,343500,11,3.2,Asia
+Philippines,3240000,74,2.28,Asia
+Haiti,3316700,65,1.96,Americas
+Honduras,2766800,46,1.66,Americas
+Nigeria,780900,10,1.28,Africa
+Belize,1563400,16,1.02,Americas
+Guyana,722200,7,0.97,Americas
+Egypt,579800,5,0.86,Africa
+Mexico,71608500,598,0.84,Americas
+Guatemala,3799600,26,0.68,Americas
+El Salvador,5324400,34,0.64,Americas
+Greece,691800,3,0.43,Europe
+Jordan,775600,3,0.39,Asia
+Jamaica,10606600,39,0.37,Americas
+Ukraine,276800,1,0.36,Europe
+Ecuador,3457500,12,0.35,Americas
+Nicaragua,2060000,7,0.34,Americas
+Costa Rica,8137400,27,0.33,Americas
+Grenada,328900,1,0.3,Americas
+Colombia,8677700,25,0.29,Americas
+Uruguay,355200,1,0.28,Americas
+Barbados,1468600,4,0.27,Americas
+Saudi Arabia,749100,2,0.27,Asia
+Dominican Republic,18169700,45,0.25,Americas
+Trinidad and Tobago,2980300,7,0.23,Americas
+Turkey,3854400,8,0.21,Asia
+Ethiopia,501700,1,0.2,Africa
+South Africa,1527000,3,0.2,Africa
+Qatar,2716000,5,0.18,Asia
+Kuwait,592900,1,0.17,Asia
+India,3307200,5,0.15,Asia
+Israel,4770700,7,0.15,Asia
+Belgium,3495000,5,0.14,Europe
+Finland,699800,1,0.14,Europe
+Venezuela,3735900,5,0.13,Americas
+Panama,7501200,9,0.12,Americas
+Russia,2695700,3,0.11,Europe
+Poland,1116300,1,0.09,Europe
+Cuba,2410400,2,0.08,Americas
+Peru,5019500,4,0.08,Americas
+Portugal,1610800,1,0.06,Europe
+Australia,8611000,4,0.05,Oceania
+Brazil,15337700,8,0.05,Americas
+Singapore,1930100,1,0.05,Asia
+Cayman Islands,2515800,1,0.04,Americas
+Netherlands,15301700,6,0.04,Europe
+Chile,2952800,1,0.03,Americas
+China,14593400,5,0.03,Asia
+Spain,9312400,3,0.03,Europe
+Germany,32703500,5,0.02,Europe
+Italy,9146800,2,0.02,Europe
+United Arab Emirates,9061000,2,0.02,Asia
+France,21280100,2,0.01,Europe
+Ireland,6748100,1,0.01,Europe
+Japan,35248300,2,0.01,Asia
+Antigua and Barbuda,791900,0,0,Americas
+Argentina,4581100,0,0,Americas
+Aruba,4260900,0,0,Americas
+Austria,1286000,0,0,Europe
+Bermuda,1978200,0,0,Americas
+Bolivia,502000,0,0,Americas
+Bonaire Sint Eustatius and Saba,135200,0,0,NA
+British Virgin Islands,454600,0,0,NA
+Canada,83817200,2,0,Americas
+Curacao,887100,0,0,NA
+Czech Republic,296900,0,0,Europe
+Denmark,2331800,0,0,Europe
+Federated States of Micronesia,219700,0,0,NA
+Fiji,548600,0,0,Oceania
+French Polynesia,819800,0,0,Oceania
+Ghana,379600,0,0,Africa
+Guadeloupe,170600,0,0,Americas
+Hong Kong,8445400,0,0,Asia
+Iceland,2359000,0,0,Europe
+Martinique,116100,0,0,Americas
+Morocco,412200,0,0,Africa
+Netherlands Antilles,486800,0,0,NA
+New Zealand,2501400,0,0,Oceania
+Norway,1014100,0,0,Europe
+Palau,171900,0,0,Oceania
+Saint Kitts and Nevis,540000,0,0,Americas
+Saint Lucia,1045400,0,0,Americas
+Samoa,234400,0,0,Oceania
+Senegal,183800,0,0,Africa
+Sint Maarten,2185100,0,0,NA
+South Korea,15234000,0,0,Asia
+Sweden,1651900,0,0,Europe
+Switzerland,6641100,0,0,Europe
+Taiwan,7026900,0,0,Asia
+The Bahamas,8580100,0,0,NA
+Turks and Caicos Islands,1949100,0,0,Americas
+United Kingdom,57264100,1,0,Europe
