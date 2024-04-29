@@ -6,4 +6,4 @@ Questa repository contiene tutti i progetti realizzati durante la formazione pre
 
 ## [Python e NumPy (file_organizer)](https://github.com/ulpati/s2i_datascience/tree/main/file_organizer)
 
-## [Data Manipulation and Visualization](https://github.com/ulpati/s2i_datascience/tree/main/data_vis)
+## [Data Manipulation and Visualization (data_vis)](https://github.com/ulpati/s2i_datascience/tree/main/data_vis)
