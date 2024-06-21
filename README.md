@@ -9,3 +9,5 @@ Questa repository contiene tutti i progetti realizzati durante la formazione pre
 ## [Data Manipulation and Visualization (data_vis)](https://github.com/ulpati/s2i_datascience/tree/main/data_vis)
 
 ## [Machine Learning (machine_learning)](https://github.com/ulpati/s2i_datascience/tree/main/machine_learning)
+
+## [Final Project (final_project)](https://github.com/ulpati/s2i_datascience/tree/main/final_project)
